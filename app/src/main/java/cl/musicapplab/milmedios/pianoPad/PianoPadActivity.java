@@ -65,7 +65,6 @@ public class PianoPadActivity extends AppCompatActivity {
     ArrayList<String> musicalScalesListName = new ArrayList<String>();
 
     SoundManager soundManager;
-    JSONParser jParser;
     String scaleName;
 
     TextView scale_actual;
@@ -77,12 +76,9 @@ public class PianoPadActivity extends AppCompatActivity {
 
 
 
-        scale_actual=(TextView) findViewById(R.id.scales2);
+        /*scale_actual=(TextView) findViewById(R.id.scales2);
+*/
 
-
-
-
-        jParser = JSONParser.getInstance(getApplicationContext());
 
         soundManager = SoundManager.getInstance(getApplicationContext());
 
@@ -91,6 +87,9 @@ public class PianoPadActivity extends AppCompatActivity {
         int position;
 
         Intent intent = getIntent();
+
+
+       /*
 
         if (intent.hasExtra("musicalScalesListName")) {
 
@@ -128,21 +127,38 @@ public class PianoPadActivity extends AppCompatActivity {
             }
         }
 
+        */
+
+
+
+
+    /*    musicalScalesListName ="Chromatic";
+
+                {"name":"Chromatic","range":"1 2b 2 3b 3 4 5b 5 6b 6 7b 7"},
+*/
+
+
 
 
         String musical_scale;
 
-        musical_scale=musicalScalesListRange.get(position).toString();
+        //musical_scale=musicalScalesListRange.get(position).toString();
+
+
+        musical_scale="1 2b 2 3b 3 4 5b 5 6b 6 7b 7";
+
+
 
         String note_text = "C";
 
-        scaleName =musicalScalesListName.get(position).toString();
+        scaleName ="cromatica";
+
 
         scaleName = scaleName.substring(0, 1).toUpperCase() + scaleName.substring(1);
 
         setTitle("Musical Scales-" + note_text + " " + scaleName);
 
-        scale_actual.setText(note_text + " " + scaleName);
+//        scale_actual.setText(note_text + " " + scaleName);
 
 
         init_octave=2;
@@ -151,18 +167,6 @@ public class PianoPadActivity extends AppCompatActivity {
 
         notes_list = new Button[12];
 
-        notes_list[0] = (Button) findViewById(R.id.note_0);
-        notes_list[1] = (Button) findViewById(R.id.note_1);
-        notes_list[2] = (Button) findViewById(R.id.note_2);
-        notes_list[3] = (Button) findViewById(R.id.note_3);
-        notes_list[4] = (Button) findViewById(R.id.note_4);
-        notes_list[5] = (Button) findViewById(R.id.note_5);
-        notes_list[6] = (Button) findViewById(R.id.note_6);
-        notes_list[7] = (Button) findViewById(R.id.note_7);
-        notes_list[8] = (Button) findViewById(R.id.note_8);
-        notes_list[9] = (Button) findViewById(R.id.note_9);
-        notes_list[10] = (Button) findViewById(R.id.note_10);
-        notes_list[11] = (Button) findViewById(R.id.note_11);
 
 
 
@@ -520,94 +524,7 @@ public class PianoPadActivity extends AppCompatActivity {
         this.finish();
     }
 
-    /** Called when the user clicks the Send button */
-    public void setNote(View view) {
-        //Button button = (Button) view;
-        Button button = (Button) view;
 
-
-        for (int i = 0; i < 12; i++) {
-            //notes_list[i].setTextColor(Color.parseColor("#000000"));
-
-            notes_list[i].setBackground(ResourcesCompat.getDrawable(getResources(), R.drawable.circle, null));
-
-
-
-        }
-
-        Integer a = Integer.parseInt(button.getTag().toString());
-
-
-        //button.setTextColor(Color.parseColor("#FFFFFF"));
-
-
-
-        button.setBackground(ResourcesCompat.getDrawable(getResources(), R.drawable.circle_h, null));
-
-
-
-
-
-
-        //setTitle("Musical Scales-" + button.getText().toString() + " " + scaleName);
-
-        scaleName = scaleName.substring(0, 1).toUpperCase() + scaleName.substring(1);
-
-        scale_actual.setText(button.getText().toString() + " " + scaleName);
-
-
-        if(mLevel>=6) {
-            mLevel=1;
-            showInterstitial();
-        } else {
-            mLevel=mLevel+1;
-        }
-
-        tono=a-1;
-
-        note = tono;
-
-        for (int i = 0; i < some_array_int.length; i++) {
-            if (musical_system[(some_array_int[i%large_scale]- 1 + tono)%12].length()>1) {
-                notes[i]=0;
-            } else {
-                notes[i]=1;
-            }
-        }
-
-
-        for (int i = 0; i < number_of_keys; i++) {
-            //box[i].setText(musical_system[(some_array_int[i%large_scale]- 1 + tono)%12] + i/large_scale);
-
-            notePlay = scale[i];
-
-            if ((notePlay + note)<=83){
-                box[i].setText(soundManager.select_note((notePlay + note)));
-
-                //box[i].setText("+"+(notePlay + note));
-
-                box[i].setTextColor(Color.parseColor("#555555"));
-                if(notes[i%large_scale]==0){
-                    //box[i].setBackgroundColor(Color.parseColor("#000000"));
-                    box[i].setBackgroundResource(R.drawable.black_note);
-                }
-                else{
-                    //box[i].setBackgroundColor(Color.parseColor("#FFFFFF"));
-                    box[i].setBackgroundResource(R.drawable.white_note);
-                }
-            }else{
-
-                box[i].setText("");
-                box[i].setBackgroundColor(Color.parseColor("#00000000"));
-
-            }
-        }
-
-
-
-
-
-    }
 
 
 }

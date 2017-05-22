@@ -15,7 +15,10 @@
     <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
     <!- -->
 
-    <string name="banner_ad_unit_id">ca-app-pub-1003722250232190/4760414862</string>
+    <string name="banner_ad_unit_id">ca-app-pub-1003722250232190/2065262866</string>
+
+
+
     <string name="interstitial_ad_unit_id">ca-app-pub-1003722250232190/1388146068</string>
     <string name="title_activity_splash">SplashActivity</string>
 
