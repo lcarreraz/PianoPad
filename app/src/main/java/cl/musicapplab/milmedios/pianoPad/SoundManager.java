@@ -6,6 +6,7 @@ import android.media.AudioAttributes;
 import android.media.AudioManager;
 import android.media.SoundPool;
 import android.os.Build;
+import android.util.Log;
 
 
 public class SoundManager {
@@ -303,6 +304,9 @@ public class SoundManager {
      */
     public void play(int effect) {
             try {
+
+                Log.d("Rotas", effect + "");
+
                 soundPool.play(soundIds[effect], 1, 1, 1, 0, 1.0f);
             } catch (Exception e) {
                 e.printStackTrace();

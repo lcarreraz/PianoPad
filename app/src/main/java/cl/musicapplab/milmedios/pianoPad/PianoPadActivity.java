@@ -59,7 +59,7 @@ public class PianoPadActivity extends AppCompatActivity {
     int[] scale;
 
 
-    int number_of_keys = 35;
+    int number_of_keys = 80;
 
     ArrayList<String> musicalScalesListRange = new ArrayList<String>();
     ArrayList<String> musicalScalesListName = new ArrayList<String>();
@@ -99,7 +99,7 @@ public class PianoPadActivity extends AppCompatActivity {
             musicalScalesListRange = getIntent().getStringArrayListExtra("musicalScalesListRange");
 
         } else {
-            position = 1;
+            position = 0;
             try {
 
                 String json = jParser.loadJSONFromAsset();
@@ -167,7 +167,7 @@ public class PianoPadActivity extends AppCompatActivity {
 
 
 
-        box = new Button[43];
+        box = new Button[80];
 
         box[0] = (Button) findViewById(R.id.box_0);
         box[1] = (Button) findViewById(R.id.box_1);
@@ -204,6 +204,52 @@ public class PianoPadActivity extends AppCompatActivity {
         box[32] = (Button) findViewById(R.id.box_32);
         box[33] = (Button) findViewById(R.id.box_33);
         box[34] = (Button) findViewById(R.id.box_34);
+        box[35] = (Button) findViewById(R.id.box_35);
+        box[36] = (Button) findViewById(R.id.box_36);
+        box[37] = (Button) findViewById(R.id.box_37);
+        box[38] = (Button) findViewById(R.id.box_38);
+        box[39] = (Button) findViewById(R.id.box_39);
+        box[40] = (Button) findViewById(R.id.box_40);
+        box[41] = (Button) findViewById(R.id.box_41);
+        box[42] = (Button) findViewById(R.id.box_42);
+        box[43] = (Button) findViewById(R.id.box_43);
+        box[44] = (Button) findViewById(R.id.box_44);
+        box[45] = (Button) findViewById(R.id.box_45);
+        box[46] = (Button) findViewById(R.id.box_46);
+        box[47] = (Button) findViewById(R.id.box_47);
+        box[48] = (Button) findViewById(R.id.box_48);
+        box[49] = (Button) findViewById(R.id.box_49);
+        box[50] = (Button) findViewById(R.id.box_50);
+        box[51] = (Button) findViewById(R.id.box_51);
+        box[52] = (Button) findViewById(R.id.box_52);
+        box[53] = (Button) findViewById(R.id.box_53);
+        box[54] = (Button) findViewById(R.id.box_54);
+        box[55] = (Button) findViewById(R.id.box_55);
+        box[56] = (Button) findViewById(R.id.box_56);
+        box[57] = (Button) findViewById(R.id.box_57);
+        box[58] = (Button) findViewById(R.id.box_58);
+        box[59] = (Button) findViewById(R.id.box_59);
+        box[60] = (Button) findViewById(R.id.box_60);
+        box[61] = (Button) findViewById(R.id.box_61);
+        box[62] = (Button) findViewById(R.id.box_62);
+        box[63] = (Button) findViewById(R.id.box_63);
+        box[64] = (Button) findViewById(R.id.box_64);
+        box[65] = (Button) findViewById(R.id.box_65);
+        box[66] = (Button) findViewById(R.id.box_66);
+        box[67] = (Button) findViewById(R.id.box_67);
+        box[68] = (Button) findViewById(R.id.box_68);
+        box[69] = (Button) findViewById(R.id.box_69);
+        box[70] = (Button) findViewById(R.id.box_70);
+        box[71] = (Button) findViewById(R.id.box_71);
+        box[72] = (Button) findViewById(R.id.box_72);
+        box[73] = (Button) findViewById(R.id.box_73);
+        box[74] = (Button) findViewById(R.id.box_74);
+        box[75] = (Button) findViewById(R.id.box_75);
+        box[76] = (Button) findViewById(R.id.box_76);
+        box[77] = (Button) findViewById(R.id.box_77);
+        box[78] = (Button) findViewById(R.id.box_78);
+        box[79] = (Button) findViewById(R.id.box_79);
+
 
 
         HashMap<String, Integer> map2 = new HashMap<String, Integer>();

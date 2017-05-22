@@ -233,6 +233,14 @@
                 android:tag="6"
                 android:layout_margin="@dimen/piano_margin"/>
 
+
+
+        <Button
+                android:id="@+id/box_7"
+                style="@style/btn_note"
+                android:tag="7"
+                android:layout_margin="@dimen/piano_margin"/>
+
         </LinearLayout>
 
         <LinearLayout
@@ -243,13 +251,8 @@
             android:layout_margin="@dimen/piano_margin">
 
 
-        <Button
-                android:id="@+id/box_7"
-                style="@style/btn_note"
-                android:tag="7"
-                android:layout_margin="@dimen/piano_margin"/>
 
-            <Button
+        <Button
                 android:id="@+id/box_8"
                 style="@style/btn_note"
                 android:tag="8"
@@ -289,14 +292,6 @@
                 android:tag="13"
                 android:layout_margin="@dimen/piano_margin"/>
 
-        </LinearLayout>
-
-        <LinearLayout
-            android:id="@+id/tableRow22"
-            android:layout_width="match_parent"
-            android:layout_height="0dp"
-            android:layout_weight="1.3"
-            android:layout_margin="@dimen/piano_margin">
 
 
             <Button
@@ -314,7 +309,19 @@
                 android:tag="15"
                 android:layout_margin="@dimen/piano_margin"/>
 
-            <Button
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/tableRow22"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1.3"
+            android:layout_margin="@dimen/piano_margin">
+
+
+
+        <Button
                 android:id="@+id/box_16"
                 style="@style/btn_note"
                 android:tag="16"
@@ -348,15 +355,7 @@
                 android:tag="20"
                 android:layout_margin="@dimen/piano_margin"/>
 
-        </LinearLayout>
 
-
-        <LinearLayout
-            android:id="@+id/tableRow25"
-            android:layout_width="match_parent"
-            android:layout_height="0dp"
-            android:layout_weight="1.3"
-            android:layout_margin="@dimen/piano_margin">
 
 
             <Button
@@ -377,6 +376,18 @@
                 style="@style/btn_note"
                 android:tag="23"
                 android:layout_margin="@dimen/piano_margin"/>
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/tableRow25"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1.3"
+            android:layout_margin="@dimen/piano_margin">
+
+
 
             <Button
                 android:id="@+id/box_24"
@@ -403,15 +414,7 @@
                 style="@style/btn_note"
                 android:tag="27"
                 android:layout_margin="@dimen/piano_margin"/>
-        </LinearLayout>
 
-
-        <LinearLayout
-            android:id="@+id/tableRow26"
-            android:layout_width="match_parent"
-            android:layout_height="0dp"
-            android:layout_weight="1.3"
-            android:layout_margin="@dimen/piano_margin">
 
 
             <Button
@@ -441,6 +444,18 @@
                 android:tag="31"
                 android:layout_margin="@dimen/piano_margin"/>
 
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/tableRow26"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1.3"
+            android:layout_margin="@dimen/piano_margin">
+
+
             <Button
                 android:id="@+id/box_32"
                 style="@style/btn_note"
@@ -460,6 +475,41 @@
                 android:tag="34"
                 android:layout_margin="@dimen/piano_margin"/>
 
+
+
+
+            <Button
+                android:id="@+id/box_35"
+                style="@style/btn_note"
+                android:tag="35"
+                android:layout_margin="@dimen/piano_margin"/>
+
+            <Button
+                android:id="@+id/box_36"
+                style="@style/btn_note"
+                android:tag="36"
+                android:layout_margin="@dimen/piano_margin"/>
+
+            <Button
+                android:id="@+id/box_37"
+                style="@style/btn_note"
+                android:tag="37"
+                android:layout_margin="@dimen/piano_margin"/>
+
+
+            <Button
+                android:id="@+id/box_38"
+                style="@style/btn_note"
+                android:tag="38"
+                android:layout_margin="@dimen/piano_margin"/>
+
+            <Button
+                android:id="@+id/box_39"
+                style="@style/btn_note"
+                android:tag="39"
+                android:layout_margin="@dimen/piano_margin"/>
+
+
         </LinearLayout>
 
 
@@ -472,36 +522,63 @@
             android:layout_margin="@dimen/piano_margin">
 
 
+
             <Button
-                android:id="@+id/box_35"
+                android:id="@+id/box_40"
                 style="@style/btn_note"
-                android:tag="30"
+                android:tag="40"
                 android:layout_margin="@dimen/piano_margin"/>
 
             <Button
-                android:id="@+id/box_36"
+                android:id="@+id/box_41"
                 style="@style/btn_note"
-                android:tag="31"
+                android:tag="41"
+                android:layout_margin="@dimen/piano_margin"/>
+
+
+
+
+
+
+        <Button
+                android:id="@+id/box_42"
+                style="@style/btn_note"
+                android:tag="42"
+                android:layout_margin="@dimen/piano_margin"/>
+
+
+            <Button
+                android:id="@+id/box_43"
+                style="@style/btn_note"
+                android:tag="43"
                 android:layout_margin="@dimen/piano_margin"/>
 
             <Button
-                android:id="@+id/box_37"
+                android:id="@+id/box_44"
                 style="@style/btn_note"
-                android:tag="32"
+                android:tag="44"
                 android:layout_margin="@dimen/piano_margin"/>
 
 
-            <Button
-                android:id="@+id/box_38"
-                style="@style/btn_note"
-                android:tag="33"
-                android:layout_margin="@dimen/piano_margin"/>
 
             <Button
-                android:id="@+id/box_39"
+                android:id="@+id/box_45"
                 style="@style/btn_note"
-                android:tag="34"
+                android:tag="45"
                 android:layout_margin="@dimen/piano_margin"/>
+
+            <Button
+                android:id="@+id/box_46"
+                style="@style/btn_note"
+                android:tag="46"
+                android:layout_margin="@dimen/piano_margin"/>
+
+            <Button
+                android:id="@+id/box_47"
+                style="@style/btn_note"
+                android:tag="47"
+                android:layout_margin="@dimen/piano_margin"/>
+
 
         </LinearLayout>
 
@@ -515,35 +592,53 @@
 
 
             <Button
-                android:id="@+id/box_40"
+                android:id="@+id/box_48"
                 style="@style/btn_note"
-                android:tag="30"
+                android:tag="48"
                 android:layout_margin="@dimen/piano_margin"/>
 
-            <Button
-                android:id="@+id/box_41"
-                style="@style/btn_note"
-                android:tag="31"
-                android:layout_margin="@dimen/piano_margin"/>
 
-            <Button
-                android:id="@+id/box_42"
-                style="@style/btn_note"
-                android:tag="32"
-                android:layout_margin="@dimen/piano_margin"/>
 
 
             <Button
-                android:id="@+id/box_43"
+                android:id="@+id/box_49"
                 style="@style/btn_note"
-                android:tag="33"
+                android:tag="49"
                 android:layout_margin="@dimen/piano_margin"/>
 
             <Button
-                android:id="@+id/box_44"
+                android:id="@+id/box_50"
                 style="@style/btn_note"
-                android:tag="34"
+                android:tag="50"
                 android:layout_margin="@dimen/piano_margin"/>
+
+            <Button
+                android:id="@+id/box_51"
+                style="@style/btn_note"
+                android:tag="51"
+                android:layout_margin="@dimen/piano_margin"/>
+
+            <Button
+                android:id="@+id/box_52"
+                style="@style/btn_note"
+                android:tag="52"
+                android:layout_margin="@dimen/piano_margin"/>
+            <Button
+                android:id="@+id/box_53"
+                style="@style/btn_note"
+                android:tag="53"
+                android:layout_margin="@dimen/piano_margin"/>
+            <Button
+                android:id="@+id/box_54"
+                style="@style/btn_note"
+                android:tag="54"
+                android:layout_margin="@dimen/piano_margin"/>
+            <Button
+                android:id="@+id/box_55"
+                style="@style/btn_note"
+                android:tag="55"
+                android:layout_margin="@dimen/piano_margin"/>
+
 
         </LinearLayout>
 
@@ -556,35 +651,173 @@
 
 
             <Button
-                android:id="@+id/box_45"
+                android:id="@+id/box_56"
                 style="@style/btn_note"
-                android:tag="30"
+                android:tag="56"
                 android:layout_margin="@dimen/piano_margin"/>
 
             <Button
-                android:id="@+id/box_46"
+                android:id="@+id/box_57"
                 style="@style/btn_note"
-                android:tag="31"
+                android:tag="57"
                 android:layout_margin="@dimen/piano_margin"/>
 
             <Button
-                android:id="@+id/box_47"
+                android:id="@+id/box_58"
                 style="@style/btn_note"
-                android:tag="32"
+                android:tag="58"
                 android:layout_margin="@dimen/piano_margin"/>
-
-
             <Button
-                android:id="@+id/box_48"
+                android:id="@+id/box_59"
                 style="@style/btn_note"
-                android:tag="33"
+                android:tag="59"
                 android:layout_margin="@dimen/piano_margin"/>
 
             <Button
-                android:id="@+id/box_49"
+                android:id="@+id/box_60"
                 style="@style/btn_note"
-                android:tag="34"
+                android:tag="60"
                 android:layout_margin="@dimen/piano_margin"/>
+
+            <Button
+                android:id="@+id/box_61"
+                style="@style/btn_note"
+                android:tag="61"
+                android:layout_margin="@dimen/piano_margin"/>
+
+            <Button
+                android:id="@+id/box_62"
+                style="@style/btn_note"
+                android:tag="62"
+                android:layout_margin="@dimen/piano_margin"/>
+
+            <Button
+                android:id="@+id/box_63"
+                style="@style/btn_note"
+                android:tag="63"
+                android:layout_margin="@dimen/piano_margin"/>
+
+
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/tableRow41"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1.3"
+            android:layout_margin="@dimen/piano_margin">
+
+
+            <Button
+                android:id="@+id/box_64"
+                style="@style/btn_note"
+                android:tag="64"
+                android:layout_margin="@dimen/piano_margin"/>
+
+            <Button
+                android:id="@+id/box_65"
+                style="@style/btn_note"
+                android:tag="65"
+                android:layout_margin="@dimen/piano_margin"/>
+
+            <Button
+                android:id="@+id/box_66"
+                style="@style/btn_note"
+                android:tag="66"
+                android:layout_margin="@dimen/piano_margin"/>
+            <Button
+                android:id="@+id/box_67"
+                style="@style/btn_note"
+                android:tag="67"
+                android:layout_margin="@dimen/piano_margin"/>
+
+            <Button
+                android:id="@+id/box_68"
+                style="@style/btn_note"
+                android:tag="68"
+                android:layout_margin="@dimen/piano_margin"/>
+
+            <Button
+                android:id="@+id/box_69"
+                style="@style/btn_note"
+                android:tag="69"
+                android:layout_margin="@dimen/piano_margin"/>
+
+            <Button
+                android:id="@+id/box_70"
+                style="@style/btn_note"
+                android:tag="70"
+                android:layout_margin="@dimen/piano_margin"/>
+
+            <Button
+                android:id="@+id/box_71"
+                style="@style/btn_note"
+                android:tag="71"
+                android:layout_margin="@dimen/piano_margin"/>
+
+
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/tableRow42"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1.3"
+            android:layout_margin="@dimen/piano_margin">
+
+
+            <Button
+                android:id="@+id/box_72"
+                style="@style/btn_note"
+                android:tag="72"
+                android:layout_margin="@dimen/piano_margin"/>
+
+            <Button
+                android:id="@+id/box_73"
+                style="@style/btn_note"
+                android:tag="73"
+                android:layout_margin="@dimen/piano_margin"/>
+
+            <Button
+                android:id="@+id/box_74"
+                style="@style/btn_note"
+                android:tag="74"
+                android:layout_margin="@dimen/piano_margin"/>
+            <Button
+                android:id="@+id/box_75"
+                style="@style/btn_note"
+                android:tag="75"
+                android:layout_margin="@dimen/piano_margin"/>
+
+            <Button
+                android:id="@+id/box_76"
+                style="@style/btn_note"
+                android:tag="76"
+                android:layout_margin="@dimen/piano_margin"/>
+
+            <Button
+                android:id="@+id/box_77"
+                style="@style/btn_note"
+                android:tag="77"
+                android:layout_margin="@dimen/piano_margin"/>
+
+            <Button
+                android:id="@+id/box_78"
+                style="@style/btn_note"
+                android:tag="78"
+                android:layout_margin="@dimen/piano_margin"/>
+
+            <Button
+                android:id="@+id/box_79"
+                style="@style/btn_note"
+                android:tag="79"
+                android:layout_margin="@dimen/piano_margin"/>
+
+
 
         </LinearLayout>
 
