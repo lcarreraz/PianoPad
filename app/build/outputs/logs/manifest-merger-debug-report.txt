@@ -1,0 +1,145 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/lcarreraz/proyectos/android/PianoPad/app/src/main/AndroidManifest.xml:1:39-37:12
+	package
+		ADDED from /home/lcarreraz/proyectos/android/PianoPad/app/src/main/AndroidManifest.xml:2:1-44
+		INJECTED from /home/lcarreraz/proyectos/android/PianoPad/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lcarreraz/proyectos/android/PianoPad/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/lcarreraz/proyectos/android/PianoPad/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lcarreraz/proyectos/android/PianoPad/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/lcarreraz/proyectos/android/PianoPad/app/src/main/AndroidManifest.xml:1:49-107
+	android:versionCode
+		INJECTED from /home/lcarreraz/proyectos/android/PianoPad/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lcarreraz/proyectos/android/PianoPad/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/lcarreraz/proyectos/android/PianoPad/app/src/main/AndroidManifest.xml:5:1-63
+MERGED from [com.google.android.gms:play-services-ads-lite:9.2.0] /home/lcarreraz/.android/build-cache/ab04b94da3d5162ac74842e88996652f2e1e8a18/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /home/lcarreraz/proyectos/android/PianoPad/app/src/main/AndroidManifest.xml:5:18-60
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/lcarreraz/proyectos/android/PianoPad/app/src/main/AndroidManifest.xml:6:1-75
+MERGED from [com.google.android.gms:play-services-ads-lite:9.2.0] /home/lcarreraz/.android/build-cache/ab04b94da3d5162ac74842e88996652f2e1e8a18/output/AndroidManifest.xml:21:5-78
+	android:name
+		ADDED from /home/lcarreraz/proyectos/android/PianoPad/app/src/main/AndroidManifest.xml:6:18-72
+application
+ADDED from /home/lcarreraz/proyectos/android/PianoPad/app/src/main/AndroidManifest.xml:8:1-35:15
+MERGED from [com.google.android.gms:play-services-ads-lite:9.2.0] /home/lcarreraz/.android/build-cache/ab04b94da3d5162ac74842e88996652f2e1e8a18/output/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-clearcut:9.2.0] /home/lcarreraz/.android/build-cache/9b944712c99445972ac1a7c5c0d4e0abd9545999/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:9.2.0] /home/lcarreraz/.android/build-cache/2671974b9eb1051124b3b34ce0b8f48abe1b7da3/output/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:9.2.0] /home/lcarreraz/.android/build-cache/83f714f9770c7f768b7e3da0e028bc24518a543a/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gass:9.2.0] /home/lcarreraz/.android/build-cache/c551c9da75537dc5dbfa815210d217d7286a121e/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.2.0] /home/lcarreraz/.android/build-cache/7ffcf1b2cc87ecb5763b47193d0e54b9b11da175/output/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:design:24.2.1] /home/lcarreraz/.android/build-cache/de1bb3d7b1856ce993cc2a0a8a7d1d01a7e48192/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] /home/lcarreraz/.android/build-cache/c410a775b8b8e9a57a6a312b0ec7a9c5b005ee27/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] /home/lcarreraz/.android/build-cache/7eb155a318a404001d0dafe5ec0f86b47f71d4b6/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /home/lcarreraz/.android/build-cache/d222119272005ca34ccc5dd47a9fc6f450be332d/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /home/lcarreraz/.android/build-cache/f4657af9268c5dde4aaa67efa8a26921f80e14e7/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /home/lcarreraz/.android/build-cache/37da75b5f3c606b55e42f04256f25350741c481e/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/lcarreraz/.android/build-cache/bf158647ec4bf5a69765753c8ea2bc786933d700/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/lcarreraz/.android/build-cache/d81d172c5572c882f84bdfd9eeabe343ba2dabf7/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /home/lcarreraz/.android/build-cache/5dc04e0f82334c0222935e5035e8a6629285675b/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /home/lcarreraz/.android/build-cache/5c24c49b280a117932c6d3800ac13561431e04ab/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/lcarreraz/.android/build-cache/673c025659c939b89b571586e8926e3f10a06236/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/lcarreraz/proyectos/android/PianoPad/app/src/main/AndroidManifest.xml:8:76-108
+	android:supportsRtl
+		ADDED from /home/lcarreraz/proyectos/android/PianoPad/app/src/main/AndroidManifest.xml:9:5-31
+	android:allowBackup
+		ADDED from /home/lcarreraz/proyectos/android/PianoPad/app/src/main/AndroidManifest.xml:8:14-40
+	android:icon
+		ADDED from /home/lcarreraz/proyectos/android/PianoPad/app/src/main/AndroidManifest.xml:8:41-75
+	android:theme
+		ADDED from /home/lcarreraz/proyectos/android/PianoPad/app/src/main/AndroidManifest.xml:9:32-63
+meta-data#com.google.android.gms.version
+ADDED from /home/lcarreraz/proyectos/android/PianoPad/app/src/main/AndroidManifest.xml:12:5-118
+MERGED from [com.google.android.gms:play-services-basement:9.2.0] /home/lcarreraz/.android/build-cache/7ffcf1b2cc87ecb5763b47193d0e54b9b11da175/output/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from /home/lcarreraz/proyectos/android/PianoPad/app/src/main/AndroidManifest.xml:12:62-115
+	android:name
+		ADDED from /home/lcarreraz/proyectos/android/PianoPad/app/src/main/AndroidManifest.xml:12:16-61
+activity#cl.musicapplab.milmedios.pianoPad.SplashActivity
+ADDED from /home/lcarreraz/proyectos/android/PianoPad/app/src/main/AndroidManifest.xml:14:5-20:16
+	android:theme
+		ADDED from /home/lcarreraz/proyectos/android/PianoPad/app/src/main/AndroidManifest.xml:14:79-113
+	android:name
+		ADDED from /home/lcarreraz/proyectos/android/PianoPad/app/src/main/AndroidManifest.xml:14:15-78
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/lcarreraz/proyectos/android/PianoPad/app/src/main/AndroidManifest.xml:15:9-19:25
+action#android.intent.action.MAIN
+ADDED from /home/lcarreraz/proyectos/android/PianoPad/app/src/main/AndroidManifest.xml:16:13-65
+	android:name
+		ADDED from /home/lcarreraz/proyectos/android/PianoPad/app/src/main/AndroidManifest.xml:16:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/lcarreraz/proyectos/android/PianoPad/app/src/main/AndroidManifest.xml:18:13-73
+	android:name
+		ADDED from /home/lcarreraz/proyectos/android/PianoPad/app/src/main/AndroidManifest.xml:18:23-70
+activity#cl.musicapplab.milmedios.pianoPad.PianoPadActivity
+ADDED from /home/lcarreraz/proyectos/android/PianoPad/app/src/main/AndroidManifest.xml:24:5-29:16
+	android:screenOrientation
+		ADDED from /home/lcarreraz/proyectos/android/PianoPad/app/src/main/AndroidManifest.xml:26:9-45
+	android:label
+		ADDED from /home/lcarreraz/proyectos/android/PianoPad/app/src/main/AndroidManifest.xml:25:9-41
+	android:theme
+		ADDED from /home/lcarreraz/proyectos/android/PianoPad/app/src/main/AndroidManifest.xml:27:9-65
+	android:name
+		ADDED from /home/lcarreraz/proyectos/android/PianoPad/app/src/main/AndroidManifest.xml:24:15-80
+activity#com.google.android.gms.ads.AdActivity
+ADDED from /home/lcarreraz/proyectos/android/PianoPad/app/src/main/AndroidManifest.xml:31:5-32:60
+MERGED from [com.google.android.gms:play-services-ads-lite:9.2.0] /home/lcarreraz/.android/build-cache/ab04b94da3d5162ac74842e88996652f2e1e8a18/output/AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from /home/lcarreraz/proyectos/android/PianoPad/app/src/main/AndroidManifest.xml:31:68-177
+	android:theme
+		ADDED from /home/lcarreraz/proyectos/android/PianoPad/app/src/main/AndroidManifest.xml:32:9-57
+	android:name
+		ADDED from /home/lcarreraz/proyectos/android/PianoPad/app/src/main/AndroidManifest.xml:31:15-67
+activity#cl.musicapplab.milmedios.pianoPad.ListScalesActivity
+ADDED from /home/lcarreraz/proyectos/android/PianoPad/app/src/main/AndroidManifest.xml:33:5-34:58
+	android:screenOrientation
+		ADDED from /home/lcarreraz/proyectos/android/PianoPad/app/src/main/AndroidManifest.xml:34:9-45
+	android:name
+		ADDED from /home/lcarreraz/proyectos/android/PianoPad/app/src/main/AndroidManifest.xml:33:15-82
+uses-sdk
+INJECTED from /home/lcarreraz/proyectos/android/PianoPad/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.gms:play-services-ads:9.2.0] /home/lcarreraz/.android/build-cache/6ff309014571af4b829b384ab8309f1b2b1b5835/output/AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.2.0] /home/lcarreraz/.android/build-cache/ab04b94da3d5162ac74842e88996652f2e1e8a18/output/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-clearcut:9.2.0] /home/lcarreraz/.android/build-cache/9b944712c99445972ac1a7c5c0d4e0abd9545999/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.2.0] /home/lcarreraz/.android/build-cache/2671974b9eb1051124b3b34ce0b8f48abe1b7da3/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.2.0] /home/lcarreraz/.android/build-cache/83f714f9770c7f768b7e3da0e028bc24518a543a/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gass:9.2.0] /home/lcarreraz/.android/build-cache/c551c9da75537dc5dbfa815210d217d7286a121e/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.2.0] /home/lcarreraz/.android/build-cache/7ffcf1b2cc87ecb5763b47193d0e54b9b11da175/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:design:24.2.1] /home/lcarreraz/.android/build-cache/de1bb3d7b1856ce993cc2a0a8a7d1d01a7e48192/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.1] /home/lcarreraz/.android/build-cache/c410a775b8b8e9a57a6a312b0ec7a9c5b005ee27/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] /home/lcarreraz/.android/build-cache/7eb155a318a404001d0dafe5ec0f86b47f71d4b6/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.1] /home/lcarreraz/.android/build-cache/d222119272005ca34ccc5dd47a9fc6f450be332d/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] /home/lcarreraz/.android/build-cache/f4657af9268c5dde4aaa67efa8a26921f80e14e7/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] /home/lcarreraz/.android/build-cache/37da75b5f3c606b55e42f04256f25350741c481e/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/lcarreraz/.android/build-cache/bf158647ec4bf5a69765753c8ea2bc786933d700/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/lcarreraz/.android/build-cache/d81d172c5572c882f84bdfd9eeabe343ba2dabf7/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] /home/lcarreraz/.android/build-cache/d131797df8de0299c05ebcfcc8388e1e6a22b525/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:24.2.1] /home/lcarreraz/.android/build-cache/5dc04e0f82334c0222935e5035e8a6629285675b/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] /home/lcarreraz/.android/build-cache/5c24c49b280a117932c6d3800ac13561431e04ab/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/lcarreraz/.android/build-cache/673c025659c939b89b571586e8926e3f10a06236/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] /home/lcarreraz/.android/build-cache/c410a775b8b8e9a57a6a312b0ec7a9c5b005ee27/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/lcarreraz/proyectos/android/PianoPad/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lcarreraz/proyectos/android/PianoPad/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/lcarreraz/proyectos/android/PianoPad/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lcarreraz/proyectos/android/PianoPad/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.2.0] /home/lcarreraz/.android/build-cache/ab04b94da3d5162ac74842e88996652f2e1e8a18/output/AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.2.0] /home/lcarreraz/.android/build-cache/ab04b94da3d5162ac74842e88996652f2e1e8a18/output/AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.2.0] /home/lcarreraz/.android/build-cache/ab04b94da3d5162ac74842e88996652f2e1e8a18/output/AndroidManifest.xml:30:19-91
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.2.0] /home/lcarreraz/.android/build-cache/2671974b9eb1051124b3b34ce0b8f48abe1b7da3/output/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.2.0] /home/lcarreraz/.android/build-cache/2671974b9eb1051124b3b34ce0b8f48abe1b7da3/output/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.2.0] /home/lcarreraz/.android/build-cache/2671974b9eb1051124b3b34ce0b8f48abe1b7da3/output/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.2.0] /home/lcarreraz/.android/build-cache/2671974b9eb1051124b3b34ce0b8f48abe1b7da3/output/AndroidManifest.xml:20:19-85

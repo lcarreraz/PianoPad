@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/lcarreraz/.android/build-cache/c410a775b8b8e9a57a6a312b0ec7a9c5b005ee27/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/lcarreraz/.android/build-cache/c410a775b8b8e9a57a6a312b0ec7a9c5b005ee27/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/lcarreraz/.android/build-cache/c410a775b8b8e9a57a6a312b0ec7a9c5b005ee27/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

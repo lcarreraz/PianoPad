@@ -1,0 +1,350 @@
+[
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_e3.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_e3.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_a4.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_a4.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_b2.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_b2.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_f7.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_f7.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_c_sharp_4.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_c_sharp_4.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_f_sharp_7.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_f_sharp_7.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_g_sharp_4.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_g_sharp_4.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_f_sharp_1.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_f_sharp_1.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_f1.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_f1.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_d_sharp_7.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_d_sharp_7.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_c7.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_c7.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_d5.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_d5.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_d4.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_d4.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_g5.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_g5.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_d_sharp_6.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_d_sharp_6.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_c_sharp_3.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_c_sharp_3.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_c6.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_c6.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_e2.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_e2.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_g_sharp_3.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_g_sharp_3.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_g_sharp_6.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_g_sharp_6.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_f_sharp_3.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_f_sharp_3.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_g4.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_g4.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_g1.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_g1.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_f_sharp_6.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_f_sharp_6.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_g7.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_g7.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_f3.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_f3.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_f6.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_f6.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_b3.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_b3.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_b0.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_b0.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_b6.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_b6.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_c4.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_c4.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_c1.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_c1.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_d_sharp_1.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_d_sharp_1.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_a5.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_a5.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_c_sharp_1.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_c_sharp_1.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_a_sharp_4.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_a_sharp_4.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_a_sharp_1.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_a_sharp_1.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_a2.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_a2.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_a1.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_a1.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_e6.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_e6.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_f4.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_f4.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_a_sharp_7.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_a_sharp_7.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_f_sharp_4.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_f_sharp_4.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_d_sharp_4.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_d_sharp_4.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_d2.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_d2.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_g_sharp_1.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_g_sharp_1.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_c_sharp_7.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_c_sharp_7.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_c_sharp_2.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_c_sharp_2.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_a_sharp_2.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_a_sharp_2.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_e5.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_e5.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_g2.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_g2.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_a0.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_a0.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_d7.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_d7.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_a_sharp_6.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_a_sharp_6.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_g_sharp_7.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_g_sharp_7.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_b5.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_b5.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_a7.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_a7.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_c_sharp_6.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_c_sharp_6.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_c3.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_c3.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_d_sharp_3.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_d_sharp_3.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_d1.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_d1.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_c2.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_c2.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_d6.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_d6.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_c5.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_c5.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_d3.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_d3.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_b7.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_b7.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_a_sharp_3.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_a_sharp_3.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_b4.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_b4.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_a_sharp_0.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_a_sharp_0.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_a_sharp_5.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_a_sharp_5.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_b1.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_b1.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_a6.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_a6.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_a3.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_a3.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_c_sharp_5.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_c_sharp_5.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_f2.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_f2.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_f5.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_f5.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_d_sharp_2.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_d_sharp_2.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_g6.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_g6.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_f_sharp_2.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_f_sharp_2.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_d_sharp_5.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_d_sharp_5.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_e1.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_e1.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_e7.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_e7.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_g_sharp_2.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_g_sharp_2.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_e4.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_e4.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_g_sharp_5.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_g_sharp_5.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_f_sharp_5.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_f_sharp_5.wav"
+    },
+    {
+        "merged": "/home/lcarreraz/proyectos/android/PianoPad/app/build/intermediates/res/merged/debug/raw/note_g3.wav",
+        "source": "/home/lcarreraz/proyectos/android/PianoPad/app/src/main/res/raw/note_g3.wav"
+    }
+]
